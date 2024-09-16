@@ -46,7 +46,7 @@ Adicione o repositório remoto:
 git remote add origin https://github.com/SEU_USUARIO/vscode-config.git
 Envie os arquivos para o GitHub:
 
-git push -u origin master
+git push -u origin master - 
 
 ## 4. Importar Configurações em Outro Computador
 
