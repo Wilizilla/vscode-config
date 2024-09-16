@@ -1,0 +1,15 @@
+ajhawkings.nodejs-extensions
+christian-kohler.npm-intellisense
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+formulahendry.code-runner
+jasonnutter.search-node-modules
+mhutchie.git-graph
+miguelsolorio.min-theme
+miguelsolorio.symbols
+ms-azuretools.vscode-docker
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ritwickdey.liveserver
+xabikos.javascriptsnippets

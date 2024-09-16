@@ -1,0 +1,21 @@
+{
+    "editor.fontSize": 18,
+    "editor.lineHeight": 1.8,
+    "explorer.compactFolders": false,
+    "python.defaultInterpreterPath": "python",
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "clear ; python -u"
+    },
+    "editor.minimap.size": "fill",
+    "git.suggestSmartCommit": false,
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    "terminal.integrated.fontSize": 18,
+    "workbench.colorTheme": "Min Dark",
+    "editor.stickyScroll.enabled": false,
+    "editor.rulers": [80, 120], //ajusta as colunas onde o código vai ser exibido
+    "breadcrumbs.enabled": false,
+    "workbench.iconTheme": "symbols",
+}
