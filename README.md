@@ -14,7 +14,9 @@ Sim, você pode usar o GitHub para compartilhar suas configurações e extensõe
 
 As configurações do VSCode estão geralmente localizadas em:
 • Windows: %APPDATA%\Code\User\
+
 • *macOS: ~/Library/Application Support/Code/User/*
+
 • Linux: ~/.config/Code/User/
 
 Copie os Arquivos:
@@ -31,29 +33,19 @@ Coloque os arquivos copiados e o extensions.txt na pasta do repositório que voc
 ## 3. Fazer o Commit e Push para o GitHub
 Abra o terminal na pasta do repositório.
 Inicialize o repositório Git (se ainda não estiver inicializado):
-bash
 
-Copy Code
 git init
 Adicione os arquivos:
-bash
 
-Copy Code
 git add .
 Faça o commit:
-bash
 
-Copy Code
 git commit -m "Adicionando configurações do VSCode"
 Adicione o repositório remoto:
-bash
 
-Copy Code
 git remote add origin https://github.com/SEU_USUARIO/vscode-config.git
 Envie os arquivos para o GitHub:
-bash
 
-Copy Code
 git push -u origin master
 
 ## 4. Importar Configurações em Outro Computador
@@ -62,6 +54,7 @@ git push -u origin master
 No outro computador, clone o repositório que você criou:
 
 git clone https://github.com/SEU_USUARIO/vscode-config.git
+
 Copie os Arquivos para a Pasta de Configurações do VSCode:
 Copie os arquivos do repositório clonado para a pasta de configurações do VSCode, conforme mencionado anteriormente.
 
